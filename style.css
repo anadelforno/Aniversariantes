@@ -87,6 +87,7 @@ body {
 .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
+    color: var(--branco);
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
