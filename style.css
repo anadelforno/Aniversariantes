@@ -5,7 +5,7 @@
     --branco: #FFFFFF;
     --botao-ativo: #FFB6C1;
     --botao-inativo: #FFB6C1;
-    --texto-fundo:#FFB6C1;
+    --texto-fundo:#FFFFFF;
 }
 body {
     background-color: var(--cor-de-fundo);
