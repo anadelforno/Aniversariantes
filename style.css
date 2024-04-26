@@ -97,6 +97,7 @@ body {
     display: flex;
     font-size: 30px;
     text-align: center;
+    color: var(--branco);
 
 }
 .contador{
