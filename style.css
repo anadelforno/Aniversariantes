@@ -4,8 +4,8 @@
     --rosa: #FFB6C1;
     --branco: #FFFFFF;
     --botao-ativo: #FFB6C1;
-    --botao-inativo: #FFB6C1;
-    --texto-fundo:#FFFFFF;
+    --botao-inativo: #FFFFFF;
+    --texto-fundo:#FFB6C1;
 }
 body {
     background-color: var(--cor-de-fundo);
